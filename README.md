@@ -1,6 +1,6 @@
 # MCmdLogger script template
 
-You can use this template to create MCmdLogger plugins with modern JavaScript, and ES6 import system.
+You can use this template to create MCmdLogger plugins with modern JavaScript and ES6 import system.
 
 ## Manifest
 
